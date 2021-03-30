@@ -1,0 +1,98 @@
+
+body{
+    margin:auto;
+}
+
+.left{
+    text-align: left;
+}
+
+.error-box{
+    border: 1px solid red;
+    border-left: 6px solid red;
+    margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 7px;
+
+}
+.material-icons{
+    font-size:48px;
+    color:red;
+}
+
+.error-text{
+    /* text-align: right; */
+    margin-left: 60px;
+    margin-top: -50px;
+}
+.right-side{
+    margin-top: 30px;
+    margin-right: 66%;
+    margin-left: 65px;
+    margin-bottom: 40px;
+}
+.text-para{
+    margin-bottom: -10px;
+}
+.box-text-style{
+    font-weight: bold;
+}
+.select-box{
+    /* width: 20px; */
+    /* border: 1px solid; */
+    margin-right: 125px;
+}
+.normal-box-style{
+    height: 30px;
+    padding-top: 3px;
+    padding-right:115px
+}
+.option-box-style{
+    /* padding-left: 130px; */
+    padding-right: 130px;
+    height:35px;
+    padding-top:3px ;
+   
+}
+.t1{
+    padding-top: 3px;
+}
+.date-box
+{
+    padding-right: 145px;
+    height:30px;
+    padding-top: 2px;
+}
+.option-box-style-reason
+{
+    padding-right: 192px;
+    height:35px
+}
+.option-box-style-cisco
+{
+    padding-right: 245px;
+    height:35px
+}
+
+.left-side{
+    margin-left:483px;
+    /* border: 1px solid;s */
+    margin-top: -211px;
+    /* margin-bottom: 5px; */
+    margin-right: 65px;
+}
+.lorem-text{
+    border: 1px solid;
+    margin-top: -10px;
+}
+.reason-for-cancellation-para{
+    margin-top: auto;
+    margin-left: 8px;
+}
+
+.straight-line{
+    border-top: 1px solid;
+    margin-left:60px ;
+    margin-right: 60px;
+    margin-top: 60px;
+}
